@@ -1,0 +1,27 @@
+# Virtual environment
+venv/
+env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE files
+.idea/
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Python and Flask specific
+instance/
+*.pyc
+
+# Logs and temporary files
+*.log
+*.tmp
