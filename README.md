@@ -30,3 +30,14 @@ The dataset contains detailed records of used cars, with features that influence
 This structured dataset is ideal for a supervised regression problem and requires minimal cleaning, making it suitable for end-to-end modeling.
 
 [**Click here to view/download the dataset**](https://www.kaggle.com/datasets/ujjwalwadhwa/cars24com-used-cars-dataset)
+
+---
+
+## Exploratory Data Analysis
+
+To uncover meaningful patterns and relationships within the data, here are some of the key visualizations used:
+
+### Distribution of Price
+> A histogram showed that most of the cars are priced below ₹10 lakh, with a noticeable right skew. This helped identify the presence of outliers and informed the need for potential scaling or transformation.
+
+![](<img width="850" height="470" alt="image" src="https://github.com/user-attachments/assets/ddb39cfd-3375-43a7-a6ab-ca1db3a5cc15" />)
