@@ -3,13 +3,22 @@ import pandas as pd
 import numpy as np
 from datetime import datetime
 import pickle
-import locale
 
 # Formats the price in Indian Style
-locale.setlocale(locale.LC_ALL, 'en_IN')
+def format_in_indian_currency(number):
+    number = float(number)
+    integer_part = int(number)
+    decimal_part = f"{number:.2f}".split(".")[1]
 
-def format_in_indian_currency(amount):
-    return locale.format_string("%.2f", amount, grouping = True)
+    s = str(integer_part)
+    r = ""
+    if len(s) > 3:
+        r = "," + s[-3:]
+        s = s[:-3]
+        while len(s) > 2:
+            r = "," + s[-2:] + r
+            s = s[:-2]
+    return f"{s}{r}.{decimal_part}"
 
 # Load the Model
 xgb_model = pickle.load(open("Xgb_Regressor.pkl", "rb"))
