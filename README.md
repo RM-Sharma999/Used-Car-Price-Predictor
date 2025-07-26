@@ -47,3 +47,9 @@ To uncover meaningful patterns and relationships within the data, here are some 
 
 ![](https://github.com/user-attachments/assets/8866b82d-861c-446b-a9d2-2ef6e1ac6a1a)
 
+### Kms Driven vs Price
+> The scatter plot highlighted a negative correlation between kilometers driven and price. Cars with higher mileage generally sell for less, with a few outliers at both extremes.
+
+<img width="846" height="470" alt="image" src="https://github.com/user-attachments/assets/7763ee7f-6b96-42fe-b58c-38f2a196fa2e" />
+
+
