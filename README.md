@@ -42,3 +42,8 @@ To uncover meaningful patterns and relationships within the data, here are some 
 
 ![](https://github.com/user-attachments/assets/73cab607-f7e9-4e94-9fa5-5ed64c355553)
 
+### Year vs Price
+> A boxplot revealed that newer cars tend to retain higher resale value, while older vehicles depreciate significantly. This confirmed the strong influence of manufacturing year on price.
+
+![](https://github.com/user-attachments/assets/8866b82d-861c-446b-a9d2-2ef6e1ac6a1a)
+
