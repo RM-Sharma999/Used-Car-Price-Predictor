@@ -28,3 +28,5 @@ The dataset contains detailed records of used cars, with features that influence
 - `Price` – The price of the car. (in lakhs ₹)
 
 This structured dataset is ideal for a supervised regression problem and requires minimal cleaning, making it suitable for end-to-end modeling.
+
+[**Click here to view/download the dataset**](https://www.kaggle.com/datasets/ujjwalwadhwa/cars24com-used-cars-dataset)
