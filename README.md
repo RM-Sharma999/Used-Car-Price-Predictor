@@ -40,4 +40,5 @@ To uncover meaningful patterns and relationships within the data, here are some 
 ### Distribution of Price
 > A histogram showed that most of the cars are priced below ₹10 lakh, with a noticeable right skew. This helped identify the presence of outliers and informed the need for potential scaling or transformation.
 
-![](<img width="850" height="470" alt="image" src="https://github.com/user-attachments/assets/ddb39cfd-3375-43a7-a6ab-ca1db3a5cc15" />)
+![](https://github.com/user-attachments/assets/73cab607-f7e9-4e94-9fa5-5ed64c355553)
+
