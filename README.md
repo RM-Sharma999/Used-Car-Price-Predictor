@@ -62,6 +62,12 @@ To uncover meaningful patterns and relationships within the data, here are some 
 
 <img width="846" height="470" alt="image" src="https://github.com/user-attachments/assets/be31d93c-abbd-4472-ad61-772f3bc404bc" />
 
+---
+
+## Data Preprocessing & Feature Engineering
+
+The dataset was cleaned and prepared for modeling. The `Car_Name` column was split into `Brand` and `Model`, and several new features were created from existing columns. Categorical variables were one-hot encoded, and the final data was ready for training.
+
 
 
 
