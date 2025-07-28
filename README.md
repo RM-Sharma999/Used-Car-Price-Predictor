@@ -91,3 +91,30 @@ The plot below compares the performance of each model based on RMSE and R² Scor
 
 <img width="1189" height="560" alt="image" src="https://github.com/user-attachments/assets/00952447-dbd3-48e7-b6cb-dcd72e04a07c" />
 
+---
+
+## Technologies Used
+
+- **Programming Language:** `Python`  
+- **Visualization:** `Matplotlib`, `Seaborn` 
+- **Machine Learning:** `Scikit-learn`, `Xgboost`  
+- **Web Interface:** `Flask`  
+- **Deployment Platform:** `Render`
+
+---
+
+## Deployment
+
+The final model was deployed using Flask to create an intuitive web-based interface, and hosted on Render for public accessibility.
+
+!{Used Car Price Predictor Live App](https://used-car-price-predictor-dci0.onrender.com)
+
+---
+
+## Key Takeaways
+
+- XGBoost was the best-performing model with an R² Score of **0.8465**, cross-validation R² Score of **0.8159**, and standard deviation of **0.0229**.
+- Tuned multiple regression models to enhance performance and generalization using hyperparameter tuning.
+- Identified key features influencing used car prices using XGBoost’s Feature Importance.
+- Created a user-friendly web app using Flask and deployed it via Render.
+
