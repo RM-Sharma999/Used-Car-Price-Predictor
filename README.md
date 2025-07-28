@@ -1,6 +1,6 @@
 # Used Car Price Predictor
 
-An end-to-end machine learning project that predicts the re-sale price of used cars based on features like brand, fuel type, transmission, and kilometers driven. The model is trained to deliver reliable and consistent price estimates using regression techniques, helping individuals and dealerships make informed pricing decisions.
+An end-to-end machine learning project that predicts the resale price of used cars based on features like brand, fuel type, transmission, and kilometers driven. It uses regression techniques to build a reliable and consistent model. The solution helps individuals and dealerships make informed pricing decisions.
 
 ---
 
