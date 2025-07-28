@@ -113,8 +113,8 @@ The final model was deployed using Flask to create an intuitive web-based interf
 
 ## Key Takeaways
 
-- XGBoost was the best-performing model with an R² Score of **0.8465**, cross-validation R² Score of **0.8159**, and standard deviation of **0.0229**.
+- **XGBoost** was the best-performing model with an R² Score of **0.8465**, cross-validation R² Score of **0.8159**, and standard deviation of **0.0229**.
 - Tuned multiple regression models to enhance performance and generalization using hyperparameter tuning.
 - Identified key features influencing used car prices using XGBoost’s Feature Importance.
-- Created a user-friendly web app using Flask and deployed it via Render.
+- Created a user-friendly web app using **Flask** and deployed it via **Render**.
 
