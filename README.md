@@ -107,7 +107,7 @@ The plot below compares the performance of each model based on RMSE and R² Scor
 
 The final model was deployed using Flask to create an intuitive web-based interface, and hosted on Render for public accessibility.
 
-![Used Car Price Predictor Live App](https://used-car-price-predictor-dci0.onrender.com)
+![Used Car Price Predictor Live App](https://used-car-price-predictor-dci0.onrender.com/)
 
 ---
 
