@@ -68,6 +68,26 @@ To uncover meaningful patterns and relationships within the data, here are some 
 
 The dataset was cleaned and prepared for modeling. The `Car_Name` column was split into `Brand` and `Model`, and several new features were created from existing columns. Categorical variables were one-hot encoded, and the final data was ready for training.
 
+---
 
+## Model Training & Evaluation
 
+Multiple regression models were trained to predict used car prices. Their performance was evaluated using metrics like **Root Mean Square Error (RMSE)** and **R² Score** to identify the best-performing model.
+
+### Models Used
+- Linear Regression
+- Ridge Regression
+- K-Nearest Neighbors (KNN)
+- Random Forest Regressor
+- XGBoost Regressor
+
+### Evaluation Metrics
+
+- **RMSE:** Measures the average error in predictions. Lower is better.  
+- **R² Score:** Shows how well the model explains the data. Higher is better.
+
+### Performance Overview
+The plot below compares the performance of each model based on RMSE and R² Score:
+
+<img width="1189" height="560" alt="image" src="https://github.com/user-attachments/assets/00952447-dbd3-48e7-b6cb-dcd72e04a07c" />
 
