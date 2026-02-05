@@ -2,8 +2,6 @@
 
 An **end-to-end machine learning project** that predicts the resale price of used cars based on features like **brand, fuel type, transmission, and kilometers driven**. It uses **regression techniques** to build a **reliable and consistent model**, helping individuals and dealerships make **informed pricing decisions**.
 
-An end-to-end machine learning project that predicts the resale price of used cars based on features like brand, fuel type, transmission, and kilometers driven. It uses regression techniques to build a reliable and consistent model, helping individuals and dealerships make informed pricing decisions.
-
 ---
 
 ## Objective
