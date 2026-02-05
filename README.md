@@ -66,13 +66,13 @@ To uncover **meaningful patterns and relationships** within the data, the follow
 
 ## Data Preprocessing & Feature Engineering
 
-The dataset was cleaned and prepared for modeling. The `Car_Name` column was split into `Brand` and `Model`, and several new features were created from existing columns. Categorical variables were one-hot encoded, and the final data was ready for training.
+The dataset was cleaned and prepared for **modeling**. The **Car_Name** column was split into **Brand** and **Model**, and several **new features** were created from existing columns. **Categorical variables** were one-hot encoded, and the final data was ready for training.
 
 ---
 
 ## Model Training & Evaluation
 
-Multiple regression models were trained to predict used car prices. Their performance was evaluated using metrics like **Root Mean Square Error (RMSE)** and **R² Score** to identify the best-performing model.
+Multiple **regression models** were trained to predict used car prices. Their performance was evaluated using metrics like **Root Mean Square Error (RMSE)** and **R² Score** to identify the best-performing model.
 
 ### Models Used
 - Linear Regression
@@ -87,7 +87,7 @@ Multiple regression models were trained to predict used car prices. Their perfor
 - **R² Score:** Shows how well the model explains the data. Higher is better.
 
 ### Performance Overview
-The plot below compares the performance of each model based on RMSE and R² Score:
+The plot below compares the **performance of each model** based on **RMSE** and **R² Score**:
 
 <img width="1189" height="560" alt="image" src="https://github.com/user-attachments/assets/00952447-dbd3-48e7-b6cb-dcd72e04a07c" />
 
@@ -105,7 +105,7 @@ The plot below compares the performance of each model based on RMSE and R² Scor
 
 ## Deployment
 
-The final model was deployed using Flask to create an intuitive web-based interface, and hosted on Render for public accessibility.
+The final model was deployed using **Flask** to create an **intuitive web-based interface**, and hosted on **Render** for public accessibility.
 
 [Used Car Price Predictor Live App](https://used-car-price-predictor-dci0.onrender.com/)
 
@@ -113,8 +113,7 @@ The final model was deployed using Flask to create an intuitive web-based interf
 
 ## Key Takeaways
 
-- **XGBoost** was the best-performing model with an R² Score of **0.8465**, cross-validation R² Score of **0.8159**, and standard deviation of **0.0229**.
-- Tuned multiple regression models to enhance performance and generalization using hyperparameter tuning.
-- Identified key features influencing used car prices using XGBoost’s Feature Importance.
-- Created a user-friendly web app using **Flask** and deployed it via **Render**.
-
+- **XGBoost** was the best-performing model with an **R² Score of 0.8465**, **cross-validation R² Score of 0.8159**, and a **standard deviation of 0.0229**.  
+- Tuned multiple **regression models** to enhance performance and generalization using **hyperparameter optimization**.  
+- Identified **key features** influencing used car prices using **XGBoost Feature Importance**.  
+- Created a **user-friendly web app** using **Flask** and deployed it via **Render**.
