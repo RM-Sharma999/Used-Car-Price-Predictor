@@ -1,18 +1,18 @@
 # Used Car Price Predictor
 
-An end-to-end machine learning project that predicts the resale price of used cars based on features like brand, fuel type, transmission, and kilometers driven. It uses regression techniques to build a reliable and consistent model. The solution helps individuals and dealerships make informed pricing decisions.
+An **end-to-end machine learning project** that predicts the resale price of used cars based on features like **brand, fuel type, transmission, and kilometers driven**. It uses **regression techniques** to build a **reliable and consistent model**, helping individuals and dealerships make **informed pricing decisions**.
 
 ---
 
 ## Objective
 
-This project uses machine learning to predict used car prices by analyzing historical data. It examines how features like manufacturing year, fuel type, body type, and ownership history impact pricing. The regression model is built through data cleaning, feature engineering, model training, and evaluation — for more accurate and fair pricing.
+This project uses **machine learning** to predict used car prices by analyzing **historical data**. It examines how features like **manufacturing year, fuel type, body type, and ownership history** impact pricing. The **regression model** is built through **data cleaning, feature engineering, model training, and evaluation** to deliver more accurate and fair pricing.
 
 ---
 
 ## Dataset Overview
 
-The dataset contains detailed records of used cars, with features that influence resale value. It includes 8 input variables and 1 target variable (`Price`), and each row represents a unique car listing.
+The dataset contains detailed records of used cars, with features that influence **resale value**. It includes **8 input variables** and **1 target variable (`Price`)**, and each row represents a unique car listing.
 
 **Features:**
 - `Car Name` – The name or model of the car.
@@ -27,7 +27,7 @@ The dataset contains detailed records of used cars, with features that influence
 **Target:**
 - `Price` – The price of the car. (in lakhs ₹)
 
-This structured dataset is ideal for a supervised regression problem and requires minimal cleaning, making it suitable for end-to-end modeling.
+This structured dataset is ideal for a **supervised regression problem** and requires minimal cleaning, making it suitable for **end-to-end modeling**.
 
 [**Click here to view/download the dataset**](https://www.kaggle.com/datasets/ujjwalwadhwa/cars24com-used-cars-dataset)
 
