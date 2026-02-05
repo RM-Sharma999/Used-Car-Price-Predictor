@@ -35,30 +35,30 @@ This structured dataset is ideal for a **supervised regression problem** and req
 
 ## Exploratory Data Analysis
 
-To uncover meaningful patterns and relationships within the data, here are some of the key visualizations used:
+To uncover **meaningful patterns and relationships** within the data, the following **key visualizations** were used:
 
 ### Distribution of Price
-> A histogram showed that most of the cars are priced below ₹10 lakh, with a noticeable right skew. This helped identify the presence of outliers and informed the need for potential scaling or transformation.
+> This histogram showed that most cars are priced below **₹10 lakh**, with a noticeable **right skew**. This helped identify the presence of **outliers** and informed the need for potential scaling or transformation.
 
 <img width="850" height="470" alt="image" src="https://github.com/user-attachments/assets/b53b7ebe-ff42-4f31-a42e-bf9112fe0791" />
 
 ### Year vs Price
-> A boxplot revealed that newer cars tend to retain higher resale value, while older vehicles depreciate significantly. This confirmed the strong influence of manufacturing year on price.
+> This boxplot revealed that **newer cars tend to retain higher resale value**, while **older vehicles depreciate significantly**. This confirmed the strong influence of manufacturing year on price.
 
 <img width="1001" height="547" alt="image" src="https://github.com/user-attachments/assets/b5b77df5-b4b9-45e4-b8ee-32ba5f389165" />
 
 ### Kms Driven vs Price
-> The scatter plot highlighted a negative correlation between kilometers driven and price. Cars with higher mileage generally sell for less, with a few outliers at both extremes.
+> This scatter plot highlighted a **negative correlation** between kilometers driven and price. **Cars with higher mileage generally sell for less**, with a few **outliers** at both extremes.
 
 <img width="846" height="470" alt="image" src="https://github.com/user-attachments/assets/7763ee7f-6b96-42fe-b58c-38f2a196fa2e" />
 
 ### Top 10 Brands and Models
-> A subplot featuring bar charts displayed the top 10 most listed car brands and models in the dataset. This provided a clear overview of the most represented brands and models in the used car listings, helping reveal supply trends and potential biases in price predictions.
+> This subplot featuring bar charts displayed the **top 10 most listed car brands and models** in the dataset. This provided a clear overview of the most represented brands and models in the used car listings, helping reveal **supply trends** and **potential biases** in price predictions.
 
 <img width="1483" height="489" alt="image" src="https://github.com/user-attachments/assets/5bf103a0-b094-41c8-b32b-a539f6cff187" />
 
 ### Owner Type vs Price
-> A boxplot showed a clear drop in resale value as the number of previous owners increased. Cars with a single owner typically retained higher prices, highlighting how ownership history affects buyer perception and trust in vehicle condition.
+> This boxplot showed a **clear drop in resale value** as the number of previous owners increased. **Cars with a single owner typically retained higher prices**, highlighting how ownership history affects buyer perception and trust in vehicle condition.
 
 <img width="846" height="470" alt="image" src="https://github.com/user-attachments/assets/be31d93c-abbd-4472-ad61-772f3bc404bc" />
 
