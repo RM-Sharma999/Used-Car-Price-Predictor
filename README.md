@@ -25,7 +25,7 @@ The dataset contains detailed records of used cars, with features that influence
 - `Transmission` - The type of transmission (automatic or manual).
 
 **Target:**
-- `Price` – The price of the car. (**in lakhs ₹**)
+- `Price` – The price of the car. (in lakhs ₹)
 
 This structured dataset is ideal for a **supervised regression problem** and requires minimal cleaning, making it suitable for **end-to-end modeling**.
 
