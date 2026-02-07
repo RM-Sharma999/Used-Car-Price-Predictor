@@ -6,7 +6,7 @@ An **end-to-end machine learning project** that predicts the resale price of use
 
 ## Objective
 
-This project uses **machine learning** to predict used car prices by analyzing **historical data**. It examines how features like **manufacturing year, fuel type, body type, and ownership history** impact pricing. The **regression model** is built through **data cleaning, feature engineering, model training, and evaluation** to deliver more accurate and fair pricing.
+This project uses **machine learning** to predict used car prices by analyzing **historical data**. It examines how features like **manufacturing year, fuel type, body type, and ownership history** impact pricing. The **regression model** is built through **data cleaning, feature engineering, model training & evaluation** to deliver more accurate and fair pricing.
 
 ---
 
